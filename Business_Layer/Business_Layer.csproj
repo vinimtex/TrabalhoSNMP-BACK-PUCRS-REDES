@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SnmpSharpNet">
+      <HintPath>..\SnmpSharpNet-bin-0-9-4\Debug\SnmpSharpNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

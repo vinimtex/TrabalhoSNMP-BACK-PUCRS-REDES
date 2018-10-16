@@ -1,0 +1,14 @@
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SNMP_API.deps.json
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SNMP_API.runtimeconfig.json
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SNMP_API.runtimeconfig.dev.json
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SNMP_API.dll
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SNMP_API.pdb
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\obj\Debug\netcoreapp2.0\SNMP_API.csprojResolveAssemblyReference.cache
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\obj\Debug\netcoreapp2.0\SNMP_API.csproj.CoreCompileInputs.cache
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\obj\Debug\netcoreapp2.0\SNMP_API.AssemblyInfoInputs.cache
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\obj\Debug\netcoreapp2.0\SNMP_API.AssemblyInfo.cs
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\obj\Debug\netcoreapp2.0\SNMP_API.dll
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\obj\Debug\netcoreapp2.0\SNMP_API.pdb
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SnmpSharpNet.dll
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SnmpSharpNet.pdb
+H:\trabalhoSNMP\TrabalhoSNMP-BACK-PUCRS-REDES\SNMP_API\bin\Debug\netcoreapp2.0\SnmpSharpNet.xml

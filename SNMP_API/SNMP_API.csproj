@@ -16,4 +16,10 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="SnmpSharpNet">
+      <HintPath>..\SnmpSharpNet-bin-0-9-4\Debug\SnmpSharpNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

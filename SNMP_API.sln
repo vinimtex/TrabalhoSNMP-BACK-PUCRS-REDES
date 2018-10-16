@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNMP_API", "SNMP_API\SNMP_API.csproj", "{730FE56D-E02F-4DA8-8606-45D94595C2F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SNMP_API", "SNMP_API\SNMP_API.csproj", "{730FE56D-E02F-4DA8-8606-45D94595C2F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business_Layer", "Business_Layer\Business_Layer.csproj", "{335A751E-7EE2-4A5F-BC27-D8A1ED3CBF05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business_Layer", "Business_Layer\Business_Layer.csproj", "{335A751E-7EE2-4A5F-BC27-D8A1ED3CBF05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{2C4E8E6B-2C42-4E95-832C-50658697D832}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helper", "Helper\Helper.csproj", "{2C4E8E6B-2C42-4E95-832C-50658697D832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model_Layer", "Model_Layer\Model_Layer.csproj", "{2166D479-FF94-4C60-B3CB-99F09970043D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model_Layer", "Model_Layer\Model_Layer.csproj", "{2166D479-FF94-4C60-B3CB-99F09970043D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

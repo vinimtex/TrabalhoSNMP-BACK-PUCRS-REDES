@@ -8,6 +8,6 @@ namespace SNMP_API.Models
     public class Setting
     {
         public string Community { get; set; }
-        public string HostAddress { get; set; }
+        public string AgentAddress { get; set; }
     }
 }
